@@ -31,13 +31,6 @@
 
 ---
 
-## 📸 Screenshots  
-
-> 📌 *Add a few clean screenshots here when possible — like your dashboard, reminder list, and adherence graph.*
-
-- 📅 **Medicine Reminder Screen**  
-- 📊 **Weekly Adherence Graph**  
-- 👤 **Profile & Preferences**
 
 ---
 
