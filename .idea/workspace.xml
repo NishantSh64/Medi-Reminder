@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="824b1600-c228-4200-a507-272f244c7d57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/medicine-reminder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/config/WebMvcConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/exception/CustomErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/mvn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/MedicineReminderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/controller/MedicineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/controller/ReminderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/MedicineDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/ReminderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/model/Medicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/model/Reminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/model/ReminderPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/repository/MedicineRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/repository/ReminderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/security/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/security/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/service/MedicineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/service/ReminderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/nishant/medicine_reminder/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/test/java/com/nishant/medicine_reminder/MedicineReminderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/%ProgramData%/Microsoft/Windows/UUS/State/_active.uusver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/java/com/anonymous/medireminder/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/java/com/anonymous/medireminder/MainApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable-hdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable-mdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/drawable/splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/values-night/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/react-settings-plugin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/react-settings-plugin/src/main/kotlin/expo/plugins/ReactSettingsPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(auth)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(auth)/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(auth)/signup.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/add-reminder.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/explore.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/partial-react-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/(tabs)/react-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/+not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/dashboard/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/dashboard/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/app/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/Medi-Reminder-Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/fonts/SpaceMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/Medi-Reminder-Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/partial-react-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/react-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/react-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/react-logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/assets/images/splash-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/scripts/reset-project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/AdhrenceChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/Collapsible.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/DashboardCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ExternalLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/HapticTab.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/HelloWave.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/MedicationCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ParallaxScrollView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ThemedText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ThemedText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ThemedView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ui/IconSymbol.ios.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ui/IconSymbol.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ui/TabBarBackground.ios.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/components/ui/TabBarBackground.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/constants/Colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/hooks/useColorScheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/hooks/useColorScheme.web.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/hooks/useThemeColor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/navigation/AppNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/navigation/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/AddReminderScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/LaunchScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/LoginScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/ProfileScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/SignUpScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/screens/SplashScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/WebMvcConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/CustomErrorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/MedicineReminderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/controller/DebugController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/controller/MedicineController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/controller/ReminderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/model/Medicine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/model/Reminder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/repository/MedicineRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/repository/ReminderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/service/MedicineService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/service/ReminderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nishant/medicine_reminder/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nishant/medicine_reminder/MedicineReminderApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2sGey3lPl1TrHNUtu7hNDwL9fq6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Nishant Sharma/OneDrive/Nishant/Desktop/medicine-reminder/BackEnd",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nishant Sharma\OneDrive\Nishant\Desktop\medicine-reminder\medicine-reminder\Repository" />
+      <recent name="C:\Users\Nishant Sharma\OneDrive\Nishant\Desktop\medicine-reminder\medicine-reminder\model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="824b1600-c228-4200-a507-272f244c7d57" name="Changes" comment="" />
+      <created>1738086593492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738086593492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
