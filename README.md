@@ -57,3 +57,40 @@
   ```bash
   cd backend
   ./mvnw spring-boot:run
+
+
+
+🎖️ Why This Project?
+This project was built to strengthen and demonstrate full stack mobile application development skills, covering:
+
+Cross-platform mobile app development using React Native
+
+REST API design and implementation with Java Spring Boot
+
+Relational database integration using MySQL
+
+Backend-frontend communication and mobile push notifications
+
+Clean, production-ready project structuring and code management
+
+✨ What Makes It Stand Out
+Complete full stack implementation (mobile + backend + database)
+
+Clean and scalable backend architecture
+
+Intuitive, modern mobile UI design
+
+Practical use-case: medication management
+
+Recruiter-friendly, organized, and well-documented codebase
+
+📌 Future Enhancements
+📢 Voice Notification Alerts
+
+📈 Missed Dose Analytics
+
+🌐 Multi-Language Support
+
+📊 Health Metrics and Reminder Statistics
+
+
